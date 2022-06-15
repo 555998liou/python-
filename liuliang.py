@@ -1,6 +1,3 @@
-# ±‡¬Î ±º‰: 2021/3/3 17:25
-# @File : my_monitor_13.py
-# @software : PyCharm
 from operator import attrgetter
  
 from ryu.app import simple_switch_13
